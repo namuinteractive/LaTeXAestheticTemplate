@@ -3,6 +3,8 @@ This LaTeX template is designed to provide a clean, elegant, and highly readable
 
 The design of this template is inspired by the beautiful works of **Aditya Dhumuntarao** (https://github.com/Adhumunt/NotesTeX) and the late **Gilles Castell (RIP)** (https://castel.dev/), who have crafted visually appealing and functionally efficient LaTeX templates that blend simplicity with sophistication. This template takes inspiration from their approaches but is mostly based on personal touches. 
 
+I intend to use this template in the future to create notes that cover undergraduate and post-graduate level courses in mathematics, computer science, and engineering.
+
 ## V1
 This version has been posted, and is still undergoing some minor editing, as I am utilizing this template to typeset my probability notes (to be posted on a separate repo soon). I would like to thank everyone in the LaTeX reddit community who offered some great advices to modify my old templates.
 
